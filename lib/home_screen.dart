@@ -1,4 +1,4 @@
-import 'package:asl_video_player/video_player.dart';
+import 'package:asl_video_player/asl_video_player.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
